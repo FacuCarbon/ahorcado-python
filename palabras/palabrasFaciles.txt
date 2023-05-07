@@ -1,0 +1,10 @@
+manzana
+pera
+mesa
+casa
+perro
+gato
+sol
+luna
+arbol
+silla
